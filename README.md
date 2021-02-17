@@ -7,6 +7,7 @@ Protector for .NET applications.
    Do not rename this file, it won't run if you do.
 4. Have fun.
 
+
 Some other information:
 * The presets do not work, so don't try and use them.
 * SuperAntiDe4Dot will stop most unpackers from working, however it can not be used together with constant protection, so use it afterwards alone.
