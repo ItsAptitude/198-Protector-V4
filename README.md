@@ -1,5 +1,5 @@
 # 198-Protector-V4
-Protector for .NET applications.
+ConfuserEX Mod | Protector for .NET applications.
 
 1. Download the file.
 2. Extract it somewhere on your PC.
