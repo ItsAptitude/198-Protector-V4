@@ -6,10 +6,10 @@ ConfuserEX Mod | Protector for .NET applications.
 
 
 ## Tutorial: 
-1. Download the file.
-2. Extract it somewhere on your PC.
-3. Run ConfuserEX.exe, this is the only file required as everything is packed into one executable. 
-4. Have fun.
+1. Download the file
+2. Extract it somewhere on your PC
+3. Run ConfuserEX.exe, this is the only file required as everything is packed into one executable
+4. Have fun
 
 
 ## Disclaimer: 
